@@ -153,6 +153,7 @@ class Drawer{
                 }}
                 
             }
+            
             this.Circle=(pixelarray,x,y,r,color)=>{
                 var t=typeof color
                 var h=r*2
